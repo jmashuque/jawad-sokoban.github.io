@@ -1,5 +1,7 @@
 # jawad-sokoban.github.io
+README
 
-Jawad Mashuque's portfolio, in progress...
+Hello, this is the source code for my Sokoban game project using Java.
 
-permalink: /index.html
+Use this link to access Github page for project
+https://jmashuque.github.io/jawad-sokoban.github.io/
